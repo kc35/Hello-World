@@ -1,6 +1,6 @@
 # Hello-World
 Software and web ideas
 <html>
-  <head> meow
-  </head>
+  <h1> meow
+  </h1>
 </html>
